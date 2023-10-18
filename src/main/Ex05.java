@@ -23,6 +23,7 @@ public class Ex05 {
 			System.out.println("같다");
 		}else {
 			System.out.println("다르다");
+			//왜 안 돼
 		}
 	}
 }

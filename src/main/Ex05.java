@@ -19,11 +19,5 @@ public class Ex05 {
 		boolean result6 = (x != y);
 		System.out.println("x와 y의 값이 다른가 "+ result6);
 		
-		if(x==y) {
-			System.out.println("같다");
-		}else {
-			System.out.println("다르다");
-			//왜 안 돼
-		}
 	}
 }

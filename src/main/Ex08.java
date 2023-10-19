@@ -21,7 +21,7 @@ package main;
 		boolean bool = (motherAge > fatherAge) ? true : false;
 		System.out.println(bool);
 		
-		
+		// 테스트 한번 해봅니다.
 		
 	}
 }
